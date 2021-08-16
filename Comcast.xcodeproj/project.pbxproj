@@ -13,6 +13,7 @@
 		E25CFA6126CAE0A000B6FE93 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E25CFA5F26CAE0A000B6FE93 /* Main.storyboard */; };
 		E25CFA6326CAE0A300B6FE93 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E25CFA6226CAE0A300B6FE93 /* Assets.xcassets */; };
 		E25CFA6626CAE0A300B6FE93 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E25CFA6426CAE0A300B6FE93 /* LaunchScreen.storyboard */; };
+		E25CFA6E26CAE1F600B6FE93 /* APITableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25CFA6D26CAE1F600B6FE93 /* APITableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E25CFA6226CAE0A300B6FE93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E25CFA6526CAE0A300B6FE93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E25CFA6726CAE0A300B6FE93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E25CFA6D26CAE1F600B6FE93 /* APITableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APITableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E25CFA5926CAE0A000B6FE93 /* AppDelegate.swift */,
 				E25CFA5B26CAE0A000B6FE93 /* SceneDelegate.swift */,
 				E25CFA5D26CAE0A000B6FE93 /* ViewController.swift */,
+				E25CFA6D26CAE1F600B6FE93 /* APITableViewCell.swift */,
 				E25CFA5F26CAE0A000B6FE93 /* Main.storyboard */,
 				E25CFA6226CAE0A300B6FE93 /* Assets.xcassets */,
 				E25CFA6426CAE0A300B6FE93 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				E25CFA5E26CAE0A000B6FE93 /* ViewController.swift in Sources */,
 				E25CFA5A26CAE0A000B6FE93 /* AppDelegate.swift in Sources */,
+				E25CFA6E26CAE1F600B6FE93 /* APITableViewCell.swift in Sources */,
 				E25CFA5C26CAE0A000B6FE93 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
